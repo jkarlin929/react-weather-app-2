@@ -1,0 +1,22 @@
+* {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  padding: 10px;
+  background-color: snow;
+}
+
+button {
+  padding: 10px;
+  background-color: snow;
+}
+
+div>p {
+  color: #468499;
+  font-family: Georgia;
+  text-shadow: 0.75px 0.5px #468499;
+
+}
